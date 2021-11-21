@@ -1,0 +1,8 @@
+{
+  "name": "lib-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcuswestin/lib-ui.git",
+  "author": "Marcus Westin <marcus.westin@gmail.com>",
+  "license": "MIT"
+}
